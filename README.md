@@ -83,4 +83,7 @@ streamlit run app.py
 
 ---
 
-Let me know if you'd like this README saved or extended (e.g. with image examples or Docker setup).
+Live App
+You can access the live version of the Streamlit app here:
+[https://emailspam-detection-erdstt4zb2njpe5sdudepc.streamlit.app/
+](url)
