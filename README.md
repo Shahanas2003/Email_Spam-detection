@@ -1,4 +1,4 @@
-Here’s a README file for your spam detection model project:
+
 
 ---
 
